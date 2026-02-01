@@ -1,5 +1,7 @@
 # 🤖 Jarvis Mark X — Local Yapay Zeka Asistanı
 
+.env file'ı kendiniz oluşturmalı ve API anahtarını girmelisiniz.
+
 Jarvis Mark X, **Python** ile sıfırdan geliştirilmiş, Jarvis’ten ilham alan **tamamen local** bir masaüstü yapay zeka asistanıdır.
 
 Sesli komutlarla bilgisayar kontrolü sağlar ve intent → action mantığıyla çalışır.
@@ -17,7 +19,7 @@ Sesli komutlarla bilgisayar kontrolü sağlar ve intent → action mantığıyla
 ## 🎥 Tutorial
 Bu proje bir **video anlatım serisinin** parçasıdır.  
 Kod yapısını ve güvenli geliştirmeyi anlamak için videoyu izlemeniz önerilir.
-
+video: https://youtu.be/ZD6kf9w9Sy0?si=DNWRgCuDT38yJhqA
 ---
 
 ## 🔐 Güvenlik Uyarısı
@@ -41,8 +43,9 @@ Kişisel ve eğitim amaçlı kullanabilirsiniz.
 ## 📲 Takip & İletişim
 Instagram: https://www.instagram.com/fatihmakes/  
 TikTok: https://www.tiktok.com/@fatihmakes  
-YouTube:
+YouTube: https://www.youtube.com/@FatihMakes
 
 Sorunlar için yazabilirsiniz.
 
 ⭐ Takip etmeyi unutmayın!
+
